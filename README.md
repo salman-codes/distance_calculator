@@ -24,6 +24,6 @@ I've fetched few cities coordinates in _Ireland_ and there distance from _Dublin
 ## How to Run
 1. Create a virtual environment by runing _**python -m venv my_virtualenv**_.
 2. Install requirement.txt by running _**pip install -r requirement.txt**_.
-3. To execute test cases, remove/comment everything below _**line 12**_.
+3. To execute test cases, remove/comment everything below _**line 12**_ in _app.py_ file.
 4. Now simply run, _**python app.py**_.
 5. The new output will be saved in _output.txt_ file, the output contains customers with less than or equal to 100KM distance from the source.
